@@ -27,19 +27,6 @@ DOMAIN-SUFFIX,ykimg.com,China
 DOMAIN-SUFFIX,youku.com,China
 DOMAIN-SUFFIX,xiami.com,China
 DOMAIN-SUFFIX,xiami.net,China
-# > Apple
-DOMAIN-SUFFIX,aaplimg.com,China
-DOMAIN-SUFFIX,apple.co,China
-DOMAIN-SUFFIX,apple.com,China
-DOMAIN-SUFFIX,apple-cloudkit.com,China
-DOMAIN-SUFFIX,appstore.com,China
-DOMAIN-SUFFIX,cdn-apple.com,China
-DOMAIN-SUFFIX,crashlytics.com,China
-DOMAIN-SUFFIX,icloud.com,China
-DOMAIN-SUFFIX,icloud-content.com,China
-DOMAIN-SUFFIX,me.com,China
-DOMAIN-SUFFIX,mzstatic.com,China
-host,www-cdn.icloud.com.akadns.net,China
 # > Baidu
 DOMAIN-SUFFIX,baidu.com,China
 DOMAIN-SUFFIX,baidubcr.com,China
