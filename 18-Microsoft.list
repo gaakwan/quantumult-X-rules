@@ -37,8 +37,8 @@ DOMAIN-SUFFIX,sprinklesapp.com,Microsoft
 DOMAIN-SUFFIX,cn.bing.com,Microsoft
 DOMAIN-SUFFIX,cn.bing.net,Microsoft
 DOMAIN-SUFFIX,ditu.live.com,Microsoft
-DOMAIN-SUFFIX,full:bj1.api.bing.com,Microsoft
-DOMAIN-SUFFIX,full:emoi-cncdn.bing.com,Microsoft
+DOMAIN-SUFFIX,bj1.api.bing.com,Microsoft
+DOMAIN-SUFFIX,emoi-cncdn.bing.com,Microsoft
 DOMAIN-SUFFIX,bing.net,Microsoft
 DOMAIN-SUFFIX,cloudapp.net,Microsoft
 DOMAIN-SUFFIX,cloudappsecurity.com,Microsoft
