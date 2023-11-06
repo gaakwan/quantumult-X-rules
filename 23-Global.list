@@ -619,3 +619,5 @@ DOMAIN-SUFFIX,x-art.com,Global
 DOMAIN-SUFFIX,yimg.com,Global
 host,api.steampowered.com,Global
 host,store.steampowered.com,Global
+DOMAIN-SUFFIX,cdninstagram.com,Global
+DOMAIN-SUFFIX,instagram.com,Global
