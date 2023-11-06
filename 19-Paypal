@@ -1,0 +1,5 @@
+# > PayPal
+user-agent,PayPal*,PayPal
+DOMAIN-suffix,paypal.com,PayPal
+DOMAIN-suffix,paypal.me,PayPal
+DOMAIN-suffix,paypalobjects.com,PayPal
