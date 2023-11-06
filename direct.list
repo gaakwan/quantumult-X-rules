@@ -1,366 +1,366 @@
 # China Area Network
 # > 360
-host-suffix, qhres.com, direct
-host-suffix, qhimg.com, direct
+DOMAIN-SUFFIX, qhres.com
+DOMAIN-SUFFIX, qhimg.com
 # > Akamai
-host-suffix, akadns.net, direct
-# host-suffix, akamai.net, direct
-# host-suffix, akamaiedge.net, direct
-# host-suffix, akamaihd.net, direct
-# host-suffix, akamaistream.net, direct
-# host-suffix, akamaized.net, direct
+DOMAIN-SUFFIX, akadns.net
+# DOMAIN-SUFFIX, akamai.net
+# DOMAIN-SUFFIX, akamaiedge.net
+# DOMAIN-SUFFIX, akamaihd.net
+# DOMAIN-SUFFIX, akamaistream.net
+# DOMAIN-SUFFIX, akamaized.net
 # > Alibaba
-user-agent, %E4%BC%98%E9%85%B7*, direct
-host-suffix, alibaba.com, direct
-host-suffix, alicdn.com, direct
-host-suffix, alikunlun.com, direct
-host-suffix, alipay.com, direct
-host-suffix, amap.com, direct
-host-suffix, autonavi.com, direct
-host-suffix, dingtalk.com, direct
-host-suffix, mxhichina.com, direct
-host-suffix, soku.com, direct
-host-suffix, taobao.com, direct
-host-suffix, tmall.com, direct
-host-suffix, tmall.hk, direct
-host-suffix, ykimg.com, direct
-host-suffix, youku.com, direct
-host-suffix, xiami.com, direct
-host-suffix, xiami.net, direct
+user-agent, %E4%BC%98%E9%85%B7*
+DOMAIN-SUFFIX, alibaba.com
+DOMAIN-SUFFIX, alicdn.com
+DOMAIN-SUFFIX, alikunlun.com
+DOMAIN-SUFFIX, alipay.com
+DOMAIN-SUFFIX, amap.com
+DOMAIN-SUFFIX, autonavi.com
+DOMAIN-SUFFIX, dingtalk.com
+DOMAIN-SUFFIX, mxhichina.com
+DOMAIN-SUFFIX, soku.com
+DOMAIN-SUFFIX, taobao.com
+DOMAIN-SUFFIX, tmall.com
+DOMAIN-SUFFIX, tmall.hk
+DOMAIN-SUFFIX, ykimg.com
+DOMAIN-SUFFIX, youku.com
+DOMAIN-SUFFIX, xiami.com
+DOMAIN-SUFFIX, xiami.net
 # > Baidu
-host-suffix, baidu.com, direct
-host-suffix, baidubcr.com, direct
-host-suffix, bdstatic.com, direct
-host-suffix, yunjiasu-cdn.net, direct
+DOMAIN-SUFFIX, baidu.com
+DOMAIN-SUFFIX, baidubcr.com
+DOMAIN-SUFFIX, bdstatic.com
+DOMAIN-SUFFIX, yunjiasu-cdn.net
 # > Blizzard
-host-suffix, blizzard.com, direct
-host-suffix, battle.net, direct
-host, blzddist1-a.akamaihd.net, direct
+DOMAIN-SUFFIX, blizzard.com
+DOMAIN-SUFFIX, battle.net
+DOMAIN, blzddist1-a.akamaihd.net
 # > ByteDance
-host-suffix, feiliao.com, direct
-host-suffix, pstatp.com, direct
-host-suffix, snssdk.com, direct
-host-suffix, iesdouyin.com, direct
-host-suffix, toutiao.com, direct
+DOMAIN-SUFFIX, feiliao.com
+DOMAIN-SUFFIX, pstatp.com
+DOMAIN-SUFFIX, snssdk.com
+DOMAIN-SUFFIX, iesdouyin.com
+DOMAIN-SUFFIX, toutiao.com
 # > CCTV
-host-suffix, cctv.com, direct
-host-suffix, cctvpic.com, direct
-host-suffix, livechina.com, direct
+DOMAIN-SUFFIX, cctv.com
+DOMAIN-SUFFIX, cctvpic.com
+DOMAIN-SUFFIX, livechina.com
 # > DiDi
-host-suffix, didialift.com, direct
-host-suffix, didiglobal.com, direct
-host-suffix, udache.com, direct
+DOMAIN-SUFFIX, didialift.com
+DOMAIN-SUFFIX, didiglobal.com
+DOMAIN-SUFFIX, udache.com
 # > 蛋蛋赞
-host-suffix, 343480.com, direct
-host-suffix, baduziyuan.com, direct
-host-suffix, com-hs-hkdy.com, direct
-host-suffix, czybjz.com, direct
-host-suffix, dandanzan.com, direct
-host-suffix, fjhps.com, direct
-host-suffix, kuyunbo.club, direct
+DOMAIN-SUFFIX, 343480.com
+DOMAIN-SUFFIX, baduziyuan.com
+DOMAIN-SUFFIX, com-hs-hkdy.com
+DOMAIN-SUFFIX, czybjz.com
+DOMAIN-SUFFIX, dandanzan.com
+DOMAIN-SUFFIX, fjhps.com
+DOMAIN-SUFFIX, kuyunbo.club
 # > ChinaNet
-host-suffix, 21cn.com, direct
+DOMAIN-SUFFIX, 21cn.com
 # > HunanTV
-host-suffix, hitv.com, direct
-host-suffix, mgtv.com, direct
+DOMAIN-SUFFIX, hitv.com
+DOMAIN-SUFFIX, mgtv.com
 # > iQiyi
-host-suffix, iqiyi.com, direct
-host-suffix, iqiyipic.com, direct
-host-suffix, 71.am.com, direct
+DOMAIN-SUFFIX, iqiyi.com
+DOMAIN-SUFFIX, iqiyipic.com
+DOMAIN-SUFFIX, 71.am.com
 # > JD
-host-suffix, jd.com, direct
-host-suffix, jd.hk, direct
-host-suffix, jdpay.com, direct
-host-suffix, 360buyimg.com, direct
+DOMAIN-SUFFIX, jd.com
+DOMAIN-SUFFIX, jd.hk
+DOMAIN-SUFFIX, jdpay.com
+DOMAIN-SUFFIX, 360buyimg.com
 # > Kingsoft
-host-suffix, iciba.com, direct
-host-suffix, ksosoft.com, direct
+DOMAIN-SUFFIX, iciba.com
+DOMAIN-SUFFIX, ksosoft.com
 # > Meitu
-host-suffix, meitu.com, direct
-host-suffix, meitudata.com, direct
-host-suffix, meitustat.com, direct
-host-suffix, meipai.com, direct
+DOMAIN-SUFFIX, meitu.com
+DOMAIN-SUFFIX, meitudata.com
+DOMAIN-SUFFIX, meitustat.com
+DOMAIN-SUFFIX, meipai.com
 # > MI
-host-suffix, duokan.com, direct
-host-suffix, mi-img.com, direct
-host-suffix, miui.com, direct
-host-suffix, miwifi.com, direct
-host-suffix, xiaomi.com, direct
+DOMAIN-SUFFIX, duokan.com
+DOMAIN-SUFFIX, mi-img.com
+DOMAIN-SUFFIX, miui.com
+DOMAIN-SUFFIX, miwifi.com
+DOMAIN-SUFFIX, xiaomi.com
 # > Microsoft
-host-suffix, microsoft.com, direct
-host-suffix, msecnd.net, direct
-host-suffix, office365.com, direct
-host-suffix, outlook.com, direct
-host-suffix, s-microsoft.com, direct
-host-suffix, visualstudio.com, direct
-host-suffix, windows.com, direct
-host-suffix, windowsupdate.com, direct
-host, officecdn-microsoft-com.akamaized.net, direct
+DOMAIN-SUFFIX, microsoft.com
+DOMAIN-SUFFIX, msecnd.net
+DOMAIN-SUFFIX, office365.com
+DOMAIN-SUFFIX, outlook.com
+DOMAIN-SUFFIX, s-microsoft.com
+DOMAIN-SUFFIX, visualstudio.com
+DOMAIN-SUFFIX, windows.com
+DOMAIN-SUFFIX, windowsupdate.com
+DOMAIN, officecdn-microsoft-com.akamaized.net
 # > NetEase
-user-agent, NeteaseMusic*, direct
-user-agent, %E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*, direct
-host-suffix, 163.com, direct
-host-suffix, 126.net, direct
-host-suffix, 127.net, direct
-host-suffix, 163yun.com, direct
-host-suffix, lofter.com, direct
-host-suffix, netease.com, direct
-host-suffix, ydstatic.com, direct
+user-agent, NeteaseMusic*
+user-agent, %E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
+DOMAIN-SUFFIX, 163.com
+DOMAIN-SUFFIX, 126.net
+DOMAIN-SUFFIX, 127.net
+DOMAIN-SUFFIX, 163yun.com
+DOMAIN-SUFFIX, lofter.com
+DOMAIN-SUFFIX, netease.com
+DOMAIN-SUFFIX, ydstatic.com
 # > Sina
-host-suffix, sina.com, direct
-host-suffix, weibo.com, direct
-host-suffix, weibocdn.com, direct
+DOMAIN-SUFFIX, sina.com
+DOMAIN-SUFFIX, weibo.com
+DOMAIN-SUFFIX, weibocdn.com
 # > Sohu
-host-suffix, sohu.com, direct
-host-suffix, sohucs.com, direct
-host-suffix, sohu-inc.com, direct
-host-suffix, v-56.com, direct
+DOMAIN-SUFFIX, sohu.com
+DOMAIN-SUFFIX, sohucs.com
+DOMAIN-SUFFIX, sohu-inc.com
+DOMAIN-SUFFIX, v-56.com
 # > Sogo
-host-suffix, sogo.com, direct
-host-suffix, sogou.com, direct
-host-suffix, sogoucdn.com, direct
+DOMAIN-SUFFIX, sogo.com
+DOMAIN-SUFFIX, sogou.com
+DOMAIN-SUFFIX, sogoucdn.com
 # > Steam
-host-suffix, steampowered.com, direct
-host-suffix, steam-chat.com, direct
-host-suffix, steamgames.com, direct
-host-suffix, steamusercontent.com, direct
-host-suffix, steamcontent.com, direct
-host-suffix, steamstatic.com, direct
-host-suffix, steamcdn-a.akamaihd.net, direct
-host-suffix, steamstat.us, direct
+DOMAIN-SUFFIX, steampowered.com
+DOMAIN-SUFFIX, steam-chat.com
+DOMAIN-SUFFIX, steamgames.com
+DOMAIN-SUFFIX, steamusercontent.com
+DOMAIN-SUFFIX, steamcontent.com
+DOMAIN-SUFFIX, steamstatic.com
+DOMAIN-SUFFIX, steamcdn-a.akamaihd.net
+DOMAIN-SUFFIX, steamstat.us
 # > Tencent
-user-agent, MicroMessenger%20Client, direct
-user-agent, WeChat*, direct
-host-suffix, gtimg.com, direct
-host-suffix, idqqimg.com, direct
-host-suffix, igamecj.com, direct
-host-suffix, myapp.com, direct
-host-suffix, myqcloud.com, direct
-host-suffix, qq.com, direct
-host-suffix, tencent.com, direct
-host-suffix, tencent-cloud.net, direct
+user-agent, MicroMessenger%20Client
+user-agent, WeChat*
+DOMAIN-SUFFIX, gtimg.com
+DOMAIN-SUFFIX, idqqimg.com
+DOMAIN-SUFFIX, igamecj.com
+DOMAIN-SUFFIX, myapp.com
+DOMAIN-SUFFIX, myqcloud.com
+DOMAIN-SUFFIX, qq.com
+DOMAIN-SUFFIX, tencent.com
+DOMAIN-SUFFIX, tencent-cloud.net
 # > YYeTs
-user-agent, YYeTs*, direct
-host-suffix, jstucdn.com, direct
-host-suffix, zimuzu.io, direct
-host-suffix, zimuzu.tv, direct
-host-suffix, zmz2019.com, direct
-host-suffix, zmzapi.com, direct
-host-suffix, zmzapi.net, direct
-host-suffix, zmzfile.com, direct
+user-agent, YYeTs*
+DOMAIN-SUFFIX, jstucdn.com
+DOMAIN-SUFFIX, zimuzu.io
+DOMAIN-SUFFIX, zimuzu.tv
+DOMAIN-SUFFIX, zmz2019.com
+DOMAIN-SUFFIX, zmzapi.com
+DOMAIN-SUFFIX, zmzapi.net
+DOMAIN-SUFFIX, zmzfile.com
 # > Content Delivery Network
-host-suffix, ccgslb.com, direct
-host-suffix, ccgslb.net, direct
-host-suffix, chinanetcenter.com, direct
-host-suffix, meixincdn.com, direct
-host-suffix, ourdvs.com, direct
-host-suffix, staticdn.net, direct
-host-suffix, wangsu.com, direct
+DOMAIN-SUFFIX, ccgslb.com
+DOMAIN-SUFFIX, ccgslb.net
+DOMAIN-SUFFIX, chinanetcenter.com
+DOMAIN-SUFFIX, meixincdn.com
+DOMAIN-SUFFIX, ourdvs.com
+DOMAIN-SUFFIX, staticdn.net
+DOMAIN-SUFFIX, wangsu.com
 # > IP Query
-host-suffix, ipip.net, direct
-host-suffix, ip.la, direct
-host-suffix, ip-cdn.com, direct
-host-suffix, ipv6-test.com, direct
-host-suffix, test-ipv6.com, direct
-host-suffix, whatismyip.com, direct
+DOMAIN-SUFFIX, ipip.net
+DOMAIN-SUFFIX, ip.la
+DOMAIN-SUFFIX, ip-cdn.com
+DOMAIN-SUFFIX, ipv6-test.com
+DOMAIN-SUFFIX, test-ipv6.com
+DOMAIN-SUFFIX, whatismyip.com
 # > Speed Test
-# host-suffix, speedtest.net, direct
-host-suffix, netspeedtestmaster.com, direct
-host, speedtest.macpaw.com, direct
+# DOMAIN-SUFFIX, speedtest.net
+DOMAIN-SUFFIX, netspeedtestmaster.com
+DOMAIN, speedtest.macpaw.com
 # > Private Tracker
-host-suffix, awesome-hd.me, direct
-host-suffix, broadcasthe.net, direct
-host-suffix, chdbits.co, direct
-host-suffix, classix-unlimited.co.uk, direct
-host-suffix, empornium.me, direct
-host-suffix, gazellegames.net, direct
-host-suffix, hdchina.org, direct
-host-suffix, hdsky.me, direct
-host-suffix, icetorrent.org, direct
-host-suffix, jpopsuki.eu, direct
-host-suffix, keepfrds.com, direct
-host-suffix, madsrevolution.net, direct
-host-suffix, m-team.cc, direct
-host-suffix, nanyangpt.com, direct
-host-suffix, ncore.cc, direct
-host-suffix, open.cd, direct
-host-suffix, ourbits.club, direct
-host-suffix, passthepopcorn.me, direct
-host-suffix, privatehd.to, direct
-host-suffix, redacted.ch, direct
-host-suffix, springsunday.net, direct
-host-suffix, tjupt.org, direct
-host-suffix, totheglory.im, direct
+DOMAIN-SUFFIX, awesome-hd.me
+DOMAIN-SUFFIX, broadcasthe.net
+DOMAIN-SUFFIX, chdbits.co
+DOMAIN-SUFFIX, classix-unlimited.co.uk
+DOMAIN-SUFFIX, empornium.me
+DOMAIN-SUFFIX, gazellegames.net
+DOMAIN-SUFFIX, hdchina.org
+DOMAIN-SUFFIX, hdsky.me
+DOMAIN-SUFFIX, icetorrent.org
+DOMAIN-SUFFIX, jpopsuki.eu
+DOMAIN-SUFFIX, keepfrds.com
+DOMAIN-SUFFIX, madsrevolution.net
+DOMAIN-SUFFIX, m-team.cc
+DOMAIN-SUFFIX, nanyangpt.com
+DOMAIN-SUFFIX, ncore.cc
+DOMAIN-SUFFIX, open.cd
+DOMAIN-SUFFIX, ourbits.club
+DOMAIN-SUFFIX, passthepopcorn.me
+DOMAIN-SUFFIX, privatehd.to
+DOMAIN-SUFFIX, redacted.ch
+DOMAIN-SUFFIX, springsunday.net
+DOMAIN-SUFFIX, tjupt.org
+DOMAIN-SUFFIX, totheglory.im
 # > Scholar
-host-suffix, acm.org, direct
-host-suffix, acs.org, direct
-host-suffix, aip.org, direct
-host-suffix, ams.org, direct
-host-suffix, annualreviews.org, direct
-host-suffix, aps.org, direct
-host-suffix, ascelibrary.org, direct
-host-suffix, asm.org, direct
-host-suffix, asme.org, direct
-host-suffix, astm.org, direct
-host-suffix, bmj.com, direct
-host-suffix, cambridge.org, direct
-host-suffix, cas.org, direct
-host-suffix, clarivate.com, direct
-host-suffix, ebscohost.com, direct
-host-suffix, emerald.com, direct
-host-suffix, engineeringvillage.com, direct
-host-suffix, icevirtuallibrary.com, direct
-host-suffix, ieee.org, direct
-host-suffix, imf.org, direct
-host-suffix, iop.org, direct
-host-suffix, jamanetwork.com, direct
-host-suffix, jhu.edu, direct
-host-suffix, jstor.org, direct
-host-suffix, karger.com, direct
-host-suffix, libguides.com, direct
-host-suffix, madsrevolution.net, direct
-host-suffix, mpg.de, direct
-host-suffix, myilibrary.com, direct
-host-suffix, nature.com, direct
-host-suffix, oecd-ilibrary.org, direct
-host-suffix, osapublishing.org, direct
-host-suffix, oup.com, direct
-host-suffix, ovid.com, direct
-host-suffix, oxfordartonline.com, direct
-host-suffix, oxfordbibliographies.com, direct
-host-suffix, oxfordmusiconline.com, direct
-host-suffix, pnas.org, direct
-host-suffix, proquest.com, direct
-host-suffix, rsc.org, direct
-host-suffix, sagepub.com, direct
-host-suffix, sciencedirect.com, direct
-host-suffix, sciencemag.org, direct
-host-suffix, scopus.com, direct
-host-suffix, siam.org, direct
-host-suffix, spiedigitallibrary.org, direct
-host-suffix, springer.com, direct
-host-suffix, springerlink.com, direct
-host-suffix, tandfonline.com, direct
-host-suffix, un.org, direct
-host-suffix, uni-bielefeld.de, direct
-host-suffix, webofknowledge.com, direct
-host-suffix, westlaw.com, direct
-host-suffix, wiley.com, direct
-host-suffix, worldbank.org, direct
-host-suffix, worldscientific.com, direct
+DOMAIN-SUFFIX, acm.org
+DOMAIN-SUFFIX, acs.org
+DOMAIN-SUFFIX, aip.org
+DOMAIN-SUFFIX, ams.org
+DOMAIN-SUFFIX, annualreviews.org
+DOMAIN-SUFFIX, aps.org
+DOMAIN-SUFFIX, ascelibrary.org
+DOMAIN-SUFFIX, asm.org
+DOMAIN-SUFFIX, asme.org
+DOMAIN-SUFFIX, astm.org
+DOMAIN-SUFFIX, bmj.com
+DOMAIN-SUFFIX, cambridge.org
+DOMAIN-SUFFIX, cas.org
+DOMAIN-SUFFIX, clarivate.com
+DOMAIN-SUFFIX, ebscoDOMAIN.com
+DOMAIN-SUFFIX, emerald.com
+DOMAIN-SUFFIX, engineeringvillage.com
+DOMAIN-SUFFIX, icevirtuallibrary.com
+DOMAIN-SUFFIX, ieee.org
+DOMAIN-SUFFIX, imf.org
+DOMAIN-SUFFIX, iop.org
+DOMAIN-SUFFIX, jamanetwork.com
+DOMAIN-SUFFIX, jhu.edu
+DOMAIN-SUFFIX, jstor.org
+DOMAIN-SUFFIX, karger.com
+DOMAIN-SUFFIX, libguides.com
+DOMAIN-SUFFIX, madsrevolution.net
+DOMAIN-SUFFIX, mpg.de
+DOMAIN-SUFFIX, myilibrary.com
+DOMAIN-SUFFIX, nature.com
+DOMAIN-SUFFIX, oecd-ilibrary.org
+DOMAIN-SUFFIX, osapublishing.org
+DOMAIN-SUFFIX, oup.com
+DOMAIN-SUFFIX, ovid.com
+DOMAIN-SUFFIX, oxfordartonline.com
+DOMAIN-SUFFIX, oxfordbibliographies.com
+DOMAIN-SUFFIX, oxfordmusiconline.com
+DOMAIN-SUFFIX, pnas.org
+DOMAIN-SUFFIX, proquest.com
+DOMAIN-SUFFIX, rsc.org
+DOMAIN-SUFFIX, sagepub.com
+DOMAIN-SUFFIX, sciencedirect.com
+DOMAIN-SUFFIX, sciencemag.org
+DOMAIN-SUFFIX, scopus.com
+DOMAIN-SUFFIX, siam.org
+DOMAIN-SUFFIX, spiedigitallibrary.org
+DOMAIN-SUFFIX, springer.com
+DOMAIN-SUFFIX, springerlink.com
+DOMAIN-SUFFIX, tandfonline.com
+DOMAIN-SUFFIX, un.org
+DOMAIN-SUFFIX, uni-bielefeld.de
+DOMAIN-SUFFIX, webofknowledge.com
+DOMAIN-SUFFIX, westlaw.com
+DOMAIN-SUFFIX, wiley.com
+DOMAIN-SUFFIX, worldbank.org
+DOMAIN-SUFFIX, worldscientific.com
 # > Other
-host-suffix, cn, direct
-host-suffix, 360in.com, direct
-host-suffix, 51ym.me, direct
-host-suffix, 8686c.com, direct
-host-suffix, abchina.com, direct
-host-suffix, accuweather.com, direct
-host-suffix, aicoinstorge.com, direct
-host-suffix, air-matters.com, direct
-host-suffix, air-matters.io, direct
-host-suffix, aixifan.com, direct
-host-suffix, amd.com, direct
-host-suffix, b612.net, direct
-host-suffix, bdatu.com, direct
-host-suffix, beitaichufang.com, direct
-host-suffix, bjango.com, direct
-host-suffix, booking.com, direct
-host-suffix, bstatic.com, direct
-host-suffix, cailianpress.com, direct
-host-suffix, camera360.com, direct
-host-suffix, chinaso.com, direct
-host-suffix, chua.pro, direct
-host-suffix, chuimg.com, direct
-host-suffix, chunyu.mobi, direct
-host-suffix, chushou.tv, direct
-host-suffix, cmbchina.com, direct
-host-suffix, cmbimg.com, direct
-host-suffix, ctrip.com, direct
-host-suffix, dfcfw.com, direct
-host-suffix, docschina.org, direct
-host-suffix, douban.com, direct
-host-suffix, doubanio.com, direct
-host-suffix, douyu.com, direct
-host-suffix, dxycdn.com, direct
-host-suffix, dytt8.net, direct
-host-suffix, eastmoney.com, direct
-host-suffix, eudic.net, direct
-host-suffix, feng.com, direct
-host-suffix, fengkongcloud.com, direct
-host-suffix, frdic.com, direct
-host-suffix, futu5.com, direct
-host-suffix, futunn.com, direct
-host-suffix, gandi.net, direct
-host-suffix, geilicdn.com, direct
-host-suffix, getpricetag.com, direct
-host-suffix, gifshow.com, direct
-host-suffix, godic.net, direct
-host-suffix, hicloud.com, direct
-host-suffix, hongxiu.com, direct
-host-suffix, hostbuf.com, direct
-host-suffix, huxiucdn.com, direct
-host-suffix, huya.com, direct
-host-suffix, infinitynewtab.com, direct
-host-suffix, ithome.com, direct
-host-suffix, java.com, direct
-host-suffix, jidian.im, direct
-host-suffix, kaiyanapp.com, direct
-host-suffix, kaspersky-labs.com, direct
-host-suffix, keepcdn.com, direct
-host-suffix, kkmh.com, direct
-host-suffix, licdn.com, direct
-host-suffix, linkedin.com, direct
-host-suffix, loli.net, direct
-host-suffix, luojilab.com, direct
-host-suffix, maoyan.com, direct
-host-suffix, maoyun.tv, direct
-host-suffix, meituan.com, direct
-host-suffix, meituan.net, direct
-host-suffix, mobike.com, direct
-host-suffix, moke.com, direct
-host-suffix, mubu.com, direct
-host-suffix, myzaker.com, direct
-host-suffix, nim-lang-cn.org, direct
-host-suffix, nvidia.com, direct
-host-suffix, oracle.com, direct
-host-suffix, paypal.com, direct
-host-suffix, paypalobjects.com, direct
-host-suffix, qdaily.com, direct
-host-suffix, qidian.com, direct
-host-suffix, qyer.com, direct
-host-suffix, qyerstatic.com, direct
-host-suffix, raychase.net, direct
-host-suffix, ronghub.com, direct
-host-suffix, ruguoapp.com, direct
-host-suffix, s-reader.com, direct
-host-suffix, sankuai.com, direct
-host-suffix, scomper.me, direct
-host-suffix, seafile.com, direct
-host-suffix, sm.ms, direct
-host-suffix, smzdm.com, direct
-host-suffix, snapdrop.net, direct
-host-suffix, snwx.com, direct
-host-suffix, sspai.com, direct
-host-suffix, takungpao.com, direct
-host-suffix, teamviewer.com, direct
-host-suffix, tianyancha.com, direct
-host-suffix, udacity.com, direct
-host-suffix, uning.com, direct
-host-suffix, vmware.com, direct
-host-suffix, weather.com, direct
-host-suffix, weico.cc, direct
-host-suffix, weidian.com, direct
-host-suffix, xiachufang.com, direct
-host-suffix, ximalaya.com, direct
-host-suffix, xinhuanet.com, direct
-host-suffix, xmcdn.com, direct
-host-suffix, yangkeduo.com, direct
-host-suffix, zhangzishi.cc, direct
-host-suffix, zhihu.com, direct
-host-suffix, zhimg.com, direct
-host-suffix, zhuihd.com, direct
-host, download.jetbrains.com, direct
-host, images-cn.ssl-images-amazon.com, direct
+DOMAIN-SUFFIX, cn
+DOMAIN-SUFFIX, 360in.com
+DOMAIN-SUFFIX, 51ym.me
+DOMAIN-SUFFIX, 8686c.com
+DOMAIN-SUFFIX, abchina.com
+DOMAIN-SUFFIX, accuweather.com
+DOMAIN-SUFFIX, aicoinstorge.com
+DOMAIN-SUFFIX, air-matters.com
+DOMAIN-SUFFIX, air-matters.io
+DOMAIN-SUFFIX, aixifan.com
+DOMAIN-SUFFIX, amd.com
+DOMAIN-SUFFIX, b612.net
+DOMAIN-SUFFIX, bdatu.com
+DOMAIN-SUFFIX, beitaichufang.com
+DOMAIN-SUFFIX, bjango.com
+DOMAIN-SUFFIX, booking.com
+DOMAIN-SUFFIX, bstatic.com
+DOMAIN-SUFFIX, cailianpress.com
+DOMAIN-SUFFIX, camera360.com
+DOMAIN-SUFFIX, chinaso.com
+DOMAIN-SUFFIX, chua.pro
+DOMAIN-SUFFIX, chuimg.com
+DOMAIN-SUFFIX, chunyu.mobi
+DOMAIN-SUFFIX, chushou.tv
+DOMAIN-SUFFIX, cmbchina.com
+DOMAIN-SUFFIX, cmbimg.com
+DOMAIN-SUFFIX, ctrip.com
+DOMAIN-SUFFIX, dfcfw.com
+DOMAIN-SUFFIX, docschina.org
+DOMAIN-SUFFIX, douban.com
+DOMAIN-SUFFIX, doubanio.com
+DOMAIN-SUFFIX, douyu.com
+DOMAIN-SUFFIX, dxycdn.com
+DOMAIN-SUFFIX, dytt8.net
+DOMAIN-SUFFIX, eastmoney.com
+DOMAIN-SUFFIX, eudic.net
+DOMAIN-SUFFIX, feng.com
+DOMAIN-SUFFIX, fengkongcloud.com
+DOMAIN-SUFFIX, frdic.com
+DOMAIN-SUFFIX, futu5.com
+DOMAIN-SUFFIX, futunn.com
+DOMAIN-SUFFIX, gandi.net
+DOMAIN-SUFFIX, geilicdn.com
+DOMAIN-SUFFIX, getpricetag.com
+DOMAIN-SUFFIX, gifshow.com
+DOMAIN-SUFFIX, godic.net
+DOMAIN-SUFFIX, hicloud.com
+DOMAIN-SUFFIX, hongxiu.com
+DOMAIN-SUFFIX, DOMAINbuf.com
+DOMAIN-SUFFIX, huxiucdn.com
+DOMAIN-SUFFIX, huya.com
+DOMAIN-SUFFIX, infinitynewtab.com
+DOMAIN-SUFFIX, ithome.com
+DOMAIN-SUFFIX, java.com
+DOMAIN-SUFFIX, jidian.im
+DOMAIN-SUFFIX, kaiyanapp.com
+DOMAIN-SUFFIX, kaspersky-labs.com
+DOMAIN-SUFFIX, keepcdn.com
+DOMAIN-SUFFIX, kkmh.com
+DOMAIN-SUFFIX, licdn.com
+DOMAIN-SUFFIX, linkedin.com
+DOMAIN-SUFFIX, loli.net
+DOMAIN-SUFFIX, luojilab.com
+DOMAIN-SUFFIX, maoyan.com
+DOMAIN-SUFFIX, maoyun.tv
+DOMAIN-SUFFIX, meituan.com
+DOMAIN-SUFFIX, meituan.net
+DOMAIN-SUFFIX, mobike.com
+DOMAIN-SUFFIX, moke.com
+DOMAIN-SUFFIX, mubu.com
+DOMAIN-SUFFIX, myzaker.com
+DOMAIN-SUFFIX, nim-lang-cn.org
+DOMAIN-SUFFIX, nvidia.com
+DOMAIN-SUFFIX, oracle.com
+DOMAIN-SUFFIX, paypal.com
+DOMAIN-SUFFIX, paypalobjects.com
+DOMAIN-SUFFIX, qdaily.com
+DOMAIN-SUFFIX, qidian.com
+DOMAIN-SUFFIX, qyer.com
+DOMAIN-SUFFIX, qyerstatic.com
+DOMAIN-SUFFIX, raychase.net
+DOMAIN-SUFFIX, ronghub.com
+DOMAIN-SUFFIX, ruguoapp.com
+DOMAIN-SUFFIX, s-reader.com
+DOMAIN-SUFFIX, sankuai.com
+DOMAIN-SUFFIX, scomper.me
+DOMAIN-SUFFIX, seafile.com
+DOMAIN-SUFFIX, sm.ms
+DOMAIN-SUFFIX, smzdm.com
+DOMAIN-SUFFIX, snapdrop.net
+DOMAIN-SUFFIX, snwx.com
+DOMAIN-SUFFIX, sspai.com
+DOMAIN-SUFFIX, takungpao.com
+DOMAIN-SUFFIX, teamviewer.com
+DOMAIN-SUFFIX, tianyancha.com
+DOMAIN-SUFFIX, udacity.com
+DOMAIN-SUFFIX, uning.com
+DOMAIN-SUFFIX, vmware.com
+DOMAIN-SUFFIX, weather.com
+DOMAIN-SUFFIX, weico.cc
+DOMAIN-SUFFIX, weidian.com
+DOMAIN-SUFFIX, xiachufang.com
+DOMAIN-SUFFIX, ximalaya.com
+DOMAIN-SUFFIX, xinhuanet.com
+DOMAIN-SUFFIX, xmcdn.com
+DOMAIN-SUFFIX, yangkeduo.com
+DOMAIN-SUFFIX, zhangzishi.cc
+DOMAIN-SUFFIX, zhihu.com
+DOMAIN-SUFFIX, zhimg.com
+DOMAIN-SUFFIX, zhuihd.com
+DOMAIN, download.jetbrains.com
+DOMAIN, images-cn.ssl-images-amazon.com
 
 # DNSPod Public DNS+
-ip-cidr, 119.28.28.28/32, direct
+ip-cidr, 119.28.28.28/32
