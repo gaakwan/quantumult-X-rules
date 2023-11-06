@@ -27,19 +27,6 @@ DOMAIN-SUFFIX,ykimg.com,China
 DOMAIN-SUFFIX,youku.com,China
 DOMAIN-SUFFIX,xiami.com,China
 DOMAIN-SUFFIX,xiami.net,China
-# > Apple
-DOMAIN-SUFFIX,aaplimg.com,China
-DOMAIN-SUFFIX,apple.co,China
-DOMAIN-SUFFIX,apple.com,China
-DOMAIN-SUFFIX,apple-cloudkit.com,China
-DOMAIN-SUFFIX,appstore.com,China
-DOMAIN-SUFFIX,cdn-apple.com,China
-DOMAIN-SUFFIX,crashlytics.com,China
-DOMAIN-SUFFIX,icloud.com,China
-DOMAIN-SUFFIX,icloud-content.com,China
-DOMAIN-SUFFIX,me.com,China
-DOMAIN-SUFFIX,mzstatic.com,China
-DOMAIN,www-cdn.icloud.com.akadns.net,China
 # > Baidu
 DOMAIN-SUFFIX,baidu.com,China
 DOMAIN-SUFFIX,baidubcr.com,China
@@ -102,16 +89,6 @@ DOMAIN-SUFFIX,mi-img.com,China
 DOMAIN-SUFFIX,miui.com,China
 DOMAIN-SUFFIX,miwifi.com,China
 DOMAIN-SUFFIX,xiaomi.com,China
-# > Microsoft
-DOMAIN-SUFFIX,microsoft.com,China
-DOMAIN-SUFFIX,msecnd.net,China
-DOMAIN-SUFFIX,office365.com,China
-DOMAIN-SUFFIX,outlook.com,China
-DOMAIN-SUFFIX,s-microsoft.com,China
-DOMAIN-SUFFIX,visualstudio.com,China
-DOMAIN-SUFFIX,windows.com,China
-DOMAIN-SUFFIX,windowsupdate.com,China
-DOMAIN,officecdn-microsoft-com.akamaized.net,China
 # > NetEase
 user-agent,NeteaseMusic*,China
 user-agent,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,China
