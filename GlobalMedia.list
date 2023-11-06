@@ -36,7 +36,7 @@ user-agent,com.google.ios.youtubemusic*,GlobalMedia
 user-agent,YouTubeMusic*,GlobalMedia
 # (Video)
 # > All4
-user-agent,All4*
+user-agent,All4*,GlobalMedia
 DOMAIN-SUFFIX,c4assets.com,GlobalMedia
 DOMAIN-SUFFIX,channel4.com,GlobalMedia
 # > AbemaTV
