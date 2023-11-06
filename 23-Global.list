@@ -1,17 +1,3 @@
-# > Google
-DOMAIN-SUFFIX,ampproject.org,Global
-DOMAIN-SUFFIX,appspot.com,Global
-DOMAIN-SUFFIX,blogger.com,Global
-DOMAIN-SUFFIX,getoutline.org,Global
-DOMAIN-SUFFIX,gvt0.com,Global
-DOMAIN-SUFFIX,gvt1.com,Global
-DOMAIN-SUFFIX,gvt3.com,Global
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com,Global
-host-keyword,google,Global
-host-keyword,blogspot,Global
-# > Microsoft
-DOMAIN-SUFFIX,onedrive.live.com,Global
-DOMAIN-SUFFIX,xboxlive.com,Global
 # > Learning
 DOMAIN-SUFFIX,acm.org,Global
 DOMAIN-SUFFIX,acs.org,Global
