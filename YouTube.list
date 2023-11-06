@@ -1,18 +1,18 @@
 # > YouTube
-user-agent, com.google.ios.youtube*, YouTube
-user-agent, YouTube*, YouTube
-host-keyword, youtube, YouTube
-host-suffix, youtu.be, YouTube
-host-suffix, googlevideo.com, YouTube
-host-suffix, ytimg.com, YouTube
-host-suffix, ggpht.com, YouTube
-host-suffix, gvt2.com, YouTube
-host-suffix, app-measurement.com, YouTube
-host-suffix, appspot.com, YouTube
-host-suffix, blogger.com, YouTube
-host-suffix, getoutline.org, YouTube
-host-suffix, gvt0.com, YouTube
-host-suffix, gvt3.com, YouTube
-host-suffix, xn--ngstr-lra8j.com, YouTube
-host-keyword, google, YouTube
-host-keyword, .blogspot., YouTube
+user-agent, com.google.ios.youtube*
+user-agent, YouTube*
+DOMAIN-keyword, youtube
+DOMAIN-suffix, youtu.be
+DOMAIN-suffix, googlevideo.com
+DOMAIN-suffix, ytimg.com
+DOMAIN-suffix, ggpht.com
+DOMAIN-suffix, gvt2.com
+DOMAIN-suffix, app-measurement.com
+DOMAIN-suffix, appspot.com
+DOMAIN-suffix, blogger.com
+DOMAIN-suffix, getoutline.org
+DOMAIN-suffix, gvt0.com
+DOMAIN-suffix, gvt3.com
+DOMAIN-suffix, xn--ngstr-lra8j.com
+DOMAIN-keyword, google
+DOMAIN-keyword, .blogspot.
