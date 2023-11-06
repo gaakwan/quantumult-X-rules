@@ -1,6 +1,6 @@
 # > BAHAMUT
-HOST-SUFFIX, bahamut.com.tw
-HOST-SUFFIX, gamer.com.tw
-HOST-SUFFIX, gamer2-cds.cdn.hinet.net
-HOST, gamer-cds.cdn.hinet.net
-user-agent, Anime*
+HOST-SUFFIX, bahamut.com.tw,BAHAMUT
+HOST-SUFFIX, gamer.com.tw,BAHAMUT
+HOST-SUFFIX, gamer2-cds.cdn.hinet.net,BAHAMUT
+HOST, gamer-cds.cdn.hinet.net,BAHAMUT
+user-agent, Anime*,BAHAMUT
