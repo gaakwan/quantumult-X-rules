@@ -1,5 +1,5 @@
 # > AbemaTV
-USER-AGENT,AbemaTV*
-HOST-KEYWORD,abema
-HOST-KEYWORD,ameba
-HOST-SUFFIX,hayabusa.io
+USER-AGENT,AbemaTV*,AbemaTV
+HOST-KEYWORD,abema,AbemaTV
+HOST-KEYWORD,ameba,AbemaTV
+HOST-SUFFIX,hayabusa.io,AbemaTV
