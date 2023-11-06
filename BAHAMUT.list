@@ -1,6 +1,6 @@
 # > BAHAMUT
-user-agent, Anime*, BAHAMUT
-host-suffix, bahamut.com.tw, BAHAMUT
-host-suffix, gamer.com.tw, BAHAMUT
-host, gamer-cds.cdn.hinet.net, BAHAMUT
-host, gamer2-cds.cdn.hinet.net, BAHAMUT
+user-agent, Anime*
+DOMAIN-SUFFIX, bahamut.com.tw
+DOMAIN-SUFFIX, gamer.com.tw
+DOMAIN, gamer-cds.cdn.hinet.net
+DOMAIN-SUFFIX, gamer2-cds.cdn.hinet.net
