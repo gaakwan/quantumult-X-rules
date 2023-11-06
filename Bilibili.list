@@ -20,6 +20,6 @@ HOST,upos-hz-mirrorakam.akamaized.net,Bilibili
 HOST-SUFFIX,smtcdns.net,Bilibili
 USER-AGENT,bili*,Bilibili
 USER-AGENT,Bilibili*,Bilibili
-IP-CIDR,101.227.0.0/16,BiliBili,no-resolve,Bilibili
-IP-CIDR,101.224.0.0/13,BiliBili,no-resolve,Bilibili
-IP-CIDR,119.176.0.0/12,BiliBili,no-resolve,Bilibili
+IP-CIDR,101.227.0.0/16,BiliBili,no-resolve
+IP-CIDR,101.224.0.0/13,BiliBili,no-resolve
+IP-CIDR,119.176.0.0/12,BiliBili,no-resolve
