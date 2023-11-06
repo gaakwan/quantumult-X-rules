@@ -1,8 +1,9 @@
-HOST-SUFFIX,dlandroid.rcv.sandai.net,Pikpak
-HOST-SUFFIX,hub5idx.v6.shub.sandai.net,Pikpak
-HOST-SUFFIX,hub5pn.wap.sandai.net,Pikpak
-HOST-SUFFIX,hub5pnc.sandai.net,Pikpak
-HOST-SUFFIX,hub5pr.v6.phub.sandai.net,Pikpak
-HOST-SUFFIX,hubciddata.sandai.net,Pikpak
-HOST-SUFFIX,mypikpak.com,Pikpak
-HOST-KEYWORD,mypikpak,Pikpak
+# > Pikpak
+DOMAIN-SUFFIX,dlandroid.rcv.sandai.net,Pikpak
+DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net,Pikpak
+DOMAIN-SUFFIX,hub5pn.wap.sandai.net,Pikpak
+DOMAIN-SUFFIX,hub5pnc.sandai.net,Pikpak
+DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net,Pikpak
+DOMAIN-SUFFIX,hubciddata.sandai.net,Pikpak
+DOMAIN-SUFFIX,mypikpak.com,Pikpak
+DOMAIN-KEYWORD,mypikpak,Pikpak 
