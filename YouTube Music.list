@@ -1,4 +1,4 @@
 # > YouTube Music
 # ⚠️ 注意，需要放置在 YouTube.list 之前
-user-agent, com.google.ios.youtubemusic*
-user-agent, YouTubeMusic*
+user-agent, com.google.ios.youtubemusic*,YouTube Music
+user-agent, YouTubeMusic*,YouTube Music
