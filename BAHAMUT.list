@@ -1,6 +1,6 @@
 # > BAHAMUT
-user-agent, Anime*
 DOMAIN-SUFFIX, bahamut.com.tw
 DOMAIN-SUFFIX, gamer.com.tw
-DOMAIN, gamer-cds.cdn.hinet.net
 DOMAIN-SUFFIX, gamer2-cds.cdn.hinet.net
+DOMAIN, gamer-cds.cdn.hinet.net
+user-agent, Anime*
