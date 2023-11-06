@@ -1,11 +1,11 @@
 # > Tiktok
-DOMAIN-SUFFIX,byteoversea.com,Tiktok
-DOMAIN-SUFFIX,ibytedtos.com,Tiktok
-DOMAIN-SUFFIX,ipstatp.com,Tiktok
-DOMAIN-SUFFIX,muscdn.com,Tiktok
-DOMAIN-SUFFIX,musical.ly,Tiktok
-DOMAIN-SUFFIX,tiktok.com,Tiktok
-DOMAIN-SUFFIX,tik-tokapi.com,Tiktok
-DOMAIN-SUFFIX,tiktokcdn.com,Tiktok
-DOMAIN-SUFFIX,tiktokv.com,Tiktok
-DOMAIN-KEYWORD,-tiktokcdn-com,Tiktok
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,ipstatp.com
+DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tik-tokapi.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-KEYWORD,-tiktokcdn-com
