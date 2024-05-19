@@ -1,23 +1,23 @@
 # > Bilibili
-HOST-KEYWORD, qiyi
-HOST-SUFFIX, qy.net
-IP-CIDR, 101.227.0.0/16
-IP-CIDR, 101.224.0.0/13
-IP-CIDR, 119.176.0.0/12
-HOST-KEYWORD, epic
-USER-AGENT, bili*
-USER-AGENT*
-HOST-SUFFIX, acg.tv
-HOST-SUFFIX, acgvideo.com
-HOST-SUFFIX, b23.tv
-HOST-SUFFIX, bigfun.cn
-HOST-SUFFIX, bigfunapp.cn
-HOST-SUFFIX, biliapi.com
-HOST-SUFFIX, biliapi.net
-HOST-SUFFIX, biligame.com
-HOST-SUFFIX, biligame.net
-HOST-SUFFIX, bilivideo.com
-HOST-SUFFIX, hdslb.com
-HOST-SUFFIX, im9.com
-HOST, upos-hz-mirrorakam.akamaized.net
-HOST-SUFFIX, smtcdns.net
+host-keyword, qiyi
+host-suffix, qy.net
+ip-cidr, 101.227.0.0/16
+ip-cidr, 101.224.0.0/13
+ip-cidr, 119.176.0.0/12
+host-keyword, epic
+user-agent, bili*
+user-agent*
+host-suffix, acg.tv
+host-suffix, acgvideo.com
+host-suffix, b23.tv
+host-suffix, bigfun.cn
+host-suffix, bigfunapp.cn
+host-suffix, biliapi.com
+host-suffix, biliapi.net
+host-suffix, biligame.com
+host-suffix, biligame.net
+host-suffix, bilivideo.com
+host-suffix, hdslb.com
+host-suffix, im9.com
+host, upos-hz-mirrorakam.akamaized.net
+host-suffix, smtcdns.net
