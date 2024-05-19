@@ -1,23 +1,13 @@
 # > Bilibili
-host-keyword, qiyi, Bilibili
-host-suffix, qy.net, Bilibili
-ip-cidr, 101.227.0.0/16, Bilibili
-ip-cidr, 101.224.0.0/13, Bilibili
-ip-cidr, 119.176.0.0/12, Bilibili
-host-keyword, epic, Bilibili
-user-agent, bili*, Bilibili
-user-agent, Bilibili*, Bilibili
-host-suffix, acg.tv, Bilibili
-host-suffix, acgvideo.com, Bilibili
-host-suffix, b23.tv, Bilibili
-host-suffix, bigfun.cn, Bilibili
-host-suffix, bigfunapp.cn, Bilibili
-host-suffix, biliapi.com, Bilibili
-host-suffix, biliapi.net, Bilibili
-host-suffix, biligame.com, Bilibili
-host-suffix, biligame.net, Bilibili
-host-suffix, bilivideo.com, Bilibili
-host-suffix, hdslb.com, Bilibili
-host-suffix, im9.com, Bilibili
-host, upos-hz-mirrorakam.akamaized.net, Bilibili
-host-suffix, smtcdns.net, Bilibili
+DOMAIN-SUFFIX,acg.tv,Bilibili
+DOMAIN-SUFFIX,acgvideo.com,Bilibili
+DOMAIN-SUFFIX,b23.tv,Bilibili
+DOMAIN-SUFFIX,bilibili.com,Bilibili
+DOMAIN-SUFFIX,bilibili.tv,Bilibili
+DOMAIN-SUFFIX,biliapi.net,Bilibili
+DOMAIN-SUFFIX,biliapi.com,Bilibili
+DOMAIN-SUFFIX,bilivideo.com,Bilibili
+DOMAIN-SUFFIX,hdslb.com,Bilibili
+DOMAIN,upos-hz-mirrorakam.akamaized.net,Bilibili
+USER-AGENT,bili-inter*,Bilibili
+DOMAIN,apiintl.biliapi.net,Bilibili
