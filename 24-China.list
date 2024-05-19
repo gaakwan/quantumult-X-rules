@@ -32,13 +32,6 @@ DOMAIN-SUFFIX,baidu.com,China
 DOMAIN-SUFFIX,baidubcr.com,China
 DOMAIN-SUFFIX,bdstatic.com,China
 DOMAIN-SUFFIX,yunjiasu-cdn.net,China
-# > bilibili
-DOMAIN-SUFFIX,acgvideo.com,China
-DOMAIN-SUFFIX,biliapi.com,China
-DOMAIN-SUFFIX,biliapi.net,China
-DOMAIN-SUFFIX,bilibili.com,China
-DOMAIN-SUFFIX,bilibili.tv,China
-DOMAIN-SUFFIX,hdslb.com,China
 # > Blizzard
 DOMAIN-SUFFIX,blizzard.com,China
 DOMAIN-SUFFIX,battle.net,China
@@ -112,15 +105,6 @@ DOMAIN-SUFFIX,v-56.com,China
 DOMAIN-SUFFIX,sogo.com,China
 DOMAIN-SUFFIX,sogou.com,China
 DOMAIN-SUFFIX,sogoucdn.com,China
-# > Steam
-DOMAIN-SUFFIX,steampowered.com,China
-DOMAIN-SUFFIX,steam-chat.com,China
-DOMAIN-SUFFIX,steamgames.com,China
-DOMAIN-SUFFIX,steamusercontent.com,China
-DOMAIN-SUFFIX,steamcontent.com,China
-DOMAIN-SUFFIX,steamstatic.com,China
-DOMAIN-SUFFIX,steamcdn-a.akamaihd.net,China
-DOMAIN-SUFFIX,steamstat.us,China
 # > Tencent
 user-agent,MicroMessenger%20Client,China
 user-agent,WeChat*,China
