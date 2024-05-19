@@ -6,7 +6,7 @@ ip-cidr, 101.224.0.0/13, Bilibili
 ip-cidr, 119.176.0.0/12, Bilibili
 host-keyword, epic, Bilibili
 user-agent, bili*, Bilibili
-user-agent*, Bilibili
+user-agent, Bilibili*, Bilibili
 host-suffix, acg.tv, Bilibili
 host-suffix, acgvideo.com, Bilibili
 host-suffix, b23.tv, Bilibili
