@@ -1,4 +1,6 @@
-# > myTV SUPER
-user-agent,mytv*,myTVSUPER
-DOMAIN-SUFFIX,mytvsuper.com,myTVSUPER
-DOMAIN-SUFFIX,tvb.com,myTVSUPER
+# > TVB
+USER-AGENT,mytv*,TVB
+DOMAIN-KEYWORD,nowtv100,TVB
+DOMAIN-KEYWORD,rthklive,TVB
+DOMAIN-SUFFIX,mytvsuper.com,TVB
+DOMAIN-SUFFIX,tvb.com,TVB
