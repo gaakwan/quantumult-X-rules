@@ -109,7 +109,6 @@ DOMAIN-SUFFIX,twimg.co,Global
 DOMAIN-SUFFIX,twimg.com,Global
 DOMAIN-SUFFIX,twitpic.com,Global
 DOMAIN-SUFFIX,vine.co,Global
-host-keyword,twitter,Global
 # > Line
 DOMAIN-SUFFIX,line.me,Global
 DOMAIN-SUFFIX,line-apps.com,Global
@@ -421,10 +420,7 @@ DOMAIN-SUFFIX,zb.com,Global
 DOMAIN-SUFFIX,zello.com,Global
 DOMAIN-SUFFIX,zeronet.io,Global
 DOMAIN-SUFFIX,zoom.us,Global
-host-keyword,github,Global
-host-keyword,jav,Global
 host-keyword,pinterest,Global
-host-keyword,porn,Global
 host-keyword,wikileaks,Global
 
 # (Region-Restricted Access Denied)
