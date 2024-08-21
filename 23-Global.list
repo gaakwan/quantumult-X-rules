@@ -101,14 +101,6 @@ ip-cidr, 54.162.243.80/32,Global
 ip-cidr, 54.173.34.141/32,Global
 ip-cidr, 54.235.23.242/32,Global
 ip-cidr, 169.45.248.118/32,Global
-# > Twitter
-DOMAIN-SUFFIX,pscp.tv,Global
-DOMAIN-SUFFIX,periscope.tv,Global
-DOMAIN-SUFFIX,t.co,Global
-DOMAIN-SUFFIX,twimg.co,Global
-DOMAIN-SUFFIX,twimg.com,Global
-DOMAIN-SUFFIX,twitpic.com,Global
-DOMAIN-SUFFIX,vine.co,Global
 # > Line
 DOMAIN-SUFFIX,line.me,Global
 DOMAIN-SUFFIX,line-apps.com,Global
@@ -472,77 +464,11 @@ DOMAIN-SUFFIX,vsco.co,Global
 DOMAIN-SUFFIX,xfinity.com,Global
 DOMAIN-SUFFIX,zattoo.com,Global
 user-agent,Roam*,Global
-
 # (The Most Popular Sites)
-# > Apple
-# >> TestFlight
-host,testflight.apple.com,Global
-# >> Apple URL Shortener
-DOMAIN-SUFFIX,appsto.re,Global
-# >> iBooks Store download
-host,books.itunes.apple.com,Global
-# >> iTunes Store Moveis Trailers
-host,hls.itunes.apple.com,Global
 # >> Spotlight
 host,api-glb-sea.smoot.apple.com,Global
 # >> Dictionary
 host,lookup-api.apple.com,Global
-# > Google
-DOMAIN-SUFFIX,abc.xyz,Global
-DOMAIN-SUFFIX,android.com,Global
-DOMAIN-SUFFIX,androidify.com,Global
-DOMAIN-SUFFIX,dialogflow.com,Global
-DOMAIN-SUFFIX,autodraw.com,Global
-DOMAIN-SUFFIX,capitalg.com,Global
-DOMAIN-SUFFIX,certificate-transparency.org,Global
-DOMAIN-SUFFIX,chrome.com,Global
-DOMAIN-SUFFIX,chromeexperiments.com,Global
-DOMAIN-SUFFIX,chromestatus.com,Global
-DOMAIN-SUFFIX,chromium.org,Global
-DOMAIN-SUFFIX,creativelab5.com,Global
-DOMAIN-SUFFIX,debug.com,Global
-DOMAIN-SUFFIX,deepmind.com,Global
-DOMAIN-SUFFIX,firebaseio.com,Global
-DOMAIN-SUFFIX,getmdl.io,Global
-DOMAIN-SUFFIX,ggpht.com,Global
-DOMAIN-SUFFIX,gmail.com,Global
-DOMAIN-SUFFIX,gmodules.com,Global
-DOMAIN-SUFFIX,godoc.org,Global
-DOMAIN-SUFFIX,golang.org,Global
-DOMAIN-SUFFIX,gstatic.com,Global
-DOMAIN-SUFFIX,gv.com,Global
-DOMAIN-SUFFIX,gwtproject.org,Global
-DOMAIN-SUFFIX,itasoftware.com,Global
-DOMAIN-SUFFIX,madewithcode.com,Global
-DOMAIN-SUFFIX,material.io,Global
-DOMAIN-SUFFIX,polymer-project.org,Global
-DOMAIN-SUFFIX,admin.recaptcha.net,Global
-DOMAIN-SUFFIX,recaptcha.net,Global
-DOMAIN-SUFFIX,shattered.io,Global
-DOMAIN-SUFFIX,synergyse.com,Global
-DOMAIN-SUFFIX,tensorflow.org,Global
-DOMAIN-SUFFIX,tfhub.dev,Global
-DOMAIN-SUFFIX,tiltbrush.com,Global
-DOMAIN-SUFFIX,waveprotocol.org,Global
-DOMAIN-SUFFIX,waymo.com,Global
-DOMAIN-SUFFIX,webmproject.org,Global
-DOMAIN-SUFFIX,webrtc.org,Global
-DOMAIN-SUFFIX,whatbrowser.org,Global
-DOMAIN-SUFFIX,widevine.com,Global
-DOMAIN-SUFFIX,x.company,Global
-DOMAIN-SUFFIX,youtu.be,Global
-DOMAIN-SUFFIX,yt.be,Global
-DOMAIN-SUFFIX,ytimg.com,Global
-# > Microsoft
-# >> Microsoft OneDrive
-DOMAIN-SUFFIX,1drv.com,Global
-DOMAIN-SUFFIX,1drv.ms,Global
-DOMAIN-SUFFIX,blob.core.windows.net,Global
-DOMAIN-SUFFIX,livefilestore.com,Global
-DOMAIN-SUFFIX,onedrive.com,Global
-DOMAIN-SUFFIX,storage.live.com,Global
-DOMAIN-SUFFIX,storage.msn.com,Global
-host,oneclient.sfx.ms,Global
 # > Other
 DOMAIN-SUFFIX,0rz.tw,Global
 DOMAIN-SUFFIX,4bluestones.biz,Global
